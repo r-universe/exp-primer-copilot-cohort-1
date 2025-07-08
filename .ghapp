@@ -1,0 +1,10 @@
+{
+  "id": 74847279,
+  "created_at": "2025-07-08T02:35:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["experience-primer-copilot-Leslie-Lu"]
+}
